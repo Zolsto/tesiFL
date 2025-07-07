@@ -1,0 +1,7 @@
+String-to-Integer Label Mapping:
+actinic keratosis: 0
+basal cell carcinoma: 1
+melanoma: 2
+nevus: 3
+seborrheic keratosis: 4
+squamous cell carcinoma: 5
